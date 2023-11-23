@@ -12,4 +12,8 @@ Documentacion de la asignatura de desarrollo web entorno servidor: Index, tema 1
 ## Entorno de desarrollo
 [http://daw212.isauces.local/](http://daw212.isauces.local/212DWESProyectoDWES/indexProyectoDWES.php)
 ## Entorno de explotacion
+<<<<<<< HEAD
 [Proximamente IONOS]
+=======
+[Proximamente IONOS]()
+>>>>>>> developer212
