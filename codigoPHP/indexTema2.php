@@ -16,7 +16,7 @@
             
         </main>
         <footer>
-            <p><a href="../index.html">Oscar Pascual Ferrero</a></p>
+            <p><a href="../../index.html">Oscar Pascual Ferrero</a></p>
             <p><a href="../indexProyectoDWES.php">Inicio</a> | <a href="https://github.com/Discreppo/212DWESProyectoDWES.git" target="_blank" >GitHub</a></p>
         </footer>
     </body>
