@@ -16,8 +16,8 @@
             <p><a href="doc/EstudioTema1.pdf" target="_blank">- Estudio teorico sobre desarrollo de aplicaciones web </a></p>
             <p><a href="doc/PHPUnit.pdf" target="_blank">- Estudio sobre PHPUnit </a></p>
             <p>TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</p>
-            <p><a href="../doc/documentacion2.pdf" target="_blank">- Estudio Tema 2 </a></p>            
-            <p><a href="../doc/clasesFuncionesphp.pdf" target="_blank">- Estudio clases y funciones PHP</a></p>
+            <p><a href="doc/documentacion2.pdf" target="_blank">- Estudio Tema 2 </a></p>            
+            <p><a href="doc/clasesFuncionesphp.pdf" target="_blank">- Estudio clases y funciones PHP</a></p>
             <p><a href="../212DWESProyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></p>
             <p><a href="../212DWESProyectoTema4/indexProyectoTema4.php">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a></p>
             <p><a href="../212DWESProyectoTema5/indexProyectoTema5.php">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</a> </p>
