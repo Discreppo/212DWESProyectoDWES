@@ -11,7 +11,7 @@
         <main>
             <h1>Desarrollo web entorno servidor - TEMA 2</h1>
             <!-- Contenido principal de tu sitio web -->
-            <p><a href="../doc/Tema2Carlos.pdf" target="_blank">Estudio Tema 2 </a></p>            
+            <p><a href="../doc/documentacion2.pdf" target="_blank">Estudio Tema 2 </a></p>            
             <p><a href="../doc/clasesFuncionesphp.pdf" target="_blank">Estudio clases y funciones PHP</a></p>
             
         </main>
