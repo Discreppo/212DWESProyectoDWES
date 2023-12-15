@@ -12,7 +12,7 @@
             <h1>Desarrollo web entorno servidor - TEMA 1</h1>
             <!-- Contenido principal de tu sitio web -->
             <p><a href="../doc/EstudioTema1.pdf" target="_blank">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR </a></p>
-            <p><a href="../doc/Laravel.docx" target="_blank">Estudio tecnología Laravel </a></p>            
+            <p><a href="../doc/Laravel.docx" target="_blank">Estudio sobre PHPUnit </a></p>            
             
         </main>
         <footer>
